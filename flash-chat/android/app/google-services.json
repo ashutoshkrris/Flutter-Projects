@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695327804602",
+    "firebase_url": "https://flash-chat-ashu.firebaseio.com",
+    "project_id": "flash-chat-ashu",
+    "storage_bucket": "flash-chat-ashu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695327804602:android:1347cd2c5eb51039bcc683",
+        "android_client_info": {
+          "package_name": "co.ashutoshkrris.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695327804602-t2urrs7a8322v03abdftqeg2iirls2g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXZ3IebdlOyOf9KeE32TDy-jJVAaQ8Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695327804602-t2urrs7a8322v03abdftqeg2iirls2g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
