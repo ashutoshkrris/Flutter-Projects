@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # What's Next? 🤔
 
 What's Next? is a to-do app created using Flutter.
