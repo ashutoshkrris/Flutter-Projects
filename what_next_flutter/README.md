@@ -11,3 +11,7 @@ Here's the demo of the app :
 * Add a new task using the plus button.
 * Check or uncheck tasks by tapping the tiny square box.
 * Delete a task by holding the task.
+
+## Download the app on your Android smartphone by scanning the QR code
+
+![What's Next? QR Code](https://github.com/ashutoshkrris/Flutter-Projects/blob/master/what_next_flutter/what_next.png)
