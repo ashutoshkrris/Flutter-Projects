@@ -7,5 +7,8 @@ I've made a Body Mass Index Calculator inspired by the beautiful designs made by
 
 ![Finished App](https://github.com/ashutoshkrris/Flutter-Projects/blob/master/images/bmi-cal.gif)
 
+## Download the apk file directly by scanning this QR code from your Android smartphone.
+
+![QR Code](https://github.com/ashutoshkrris/Flutter-Projects/blob/master/bmi-calculator/bmi.png)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
